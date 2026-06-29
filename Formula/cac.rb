@@ -1,11 +1,11 @@
 class Cac < Formula
   desc "Co-Author Committer - A fast terminal UI tool to amend your latest git commit with co-authors"
   homepage "https://github.com/tomhuettmann/cac"
-  version "1.1.0"
+  version "1.2.0"
   license "MIT"
 
   url "https://github.com/tomhuettmann/cac/releases/download/v#{version}/cac-#{version}-macos-arm64.tar.gz"
-  sha256 "41268e3a9ccb1a28e229c17a852d92ccb23650a364e975ab49453c75a283f914"
+  sha256 "d7dd7e8b320ebd5477496a416862826f4c7700fc5729ddc4235d5fde636fc328"
 
   def install
     bin.install "cac"
