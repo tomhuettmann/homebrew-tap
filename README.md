@@ -6,6 +6,7 @@ This is a Homebrew tap for my macOS tools and utilities.
 
 ```bash
 brew tap tomhuettmann/tap
+brew trust tomhuettmann/tap
 ```
 
 ## Available Formulas
