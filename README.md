@@ -20,3 +20,20 @@ brew install tomhuettmann/tap/cac
 ```
 
 **Homepage:** https://github.com/tomhuettmann/cac
+
+### copilot-usage (CopilotUsage)
+
+A tiny, native macOS menu bar app showing your GitHub Copilot premium request usage. Apple Silicon only.
+
+```bash
+brew install tomhuettmann/tap/copilot-usage
+brew services start copilot-usage
+```
+
+**Homepage:** https://github.com/tomhuettmann/copilot_usage
+
+## Updating a formula
+
+```bash
+./update.sh <formula> <version>   # e.g. ./update.sh cac 1.3.1
+```
