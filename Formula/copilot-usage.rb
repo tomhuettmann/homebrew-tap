@@ -1,8 +1,8 @@
 class CopilotUsage < Formula
   desc "Native macOS menu bar app showing your GitHub Copilot premium request usage"
   homepage "https://github.com/tomhuettmann/copilot_usage"
-  url "https://github.com/tomhuettmann/copilot_usage/releases/download/v1.1.0/CopilotUsage-1.1.0-macos-arm64.tar.gz"
-  sha256 "128d684a4f608657db38ea6682fa5693255bff601d645cf37446714186e7f0f2"
+  url "https://github.com/tomhuettmann/copilot_usage/releases/download/v1.1.1/CopilotUsage-1.1.1-macos-arm64.tar.gz"
+  sha256 "f955f0b58f7e3da8403c5355dc7ecfef545b6ffdc11605bbcc8052a631f1da3f"
   license "MIT"
 
   depends_on arch: :arm64
