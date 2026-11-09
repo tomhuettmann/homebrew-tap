@@ -32,6 +32,17 @@ brew services start copilot-usage
 
 **Homepage:** https://github.com/tomhuettmann/copilot_usage
 
+### brew-bar (BrewBar)
+
+A tiny, native macOS menu bar app showing your outdated Homebrew packages. Apple Silicon only.
+
+```bash
+brew install tomhuettmann/tap/brew-bar
+brew services start brew-bar
+```
+
+**Homepage:** https://github.com/tomhuettmann/brew_bar
+
 ## Updating a formula
 
 ```bash
