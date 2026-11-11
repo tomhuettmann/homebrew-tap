@@ -1,8 +1,8 @@
 class BrewBar < Formula
   desc "Native macOS menu bar app showing outdated Homebrew packages"
   homepage "https://github.com/tomhuettmann/brew_bar"
-  url "https://github.com/tomhuettmann/brew_bar/releases/download/v1.0.1/BrewBar-1.0.1-macos-arm64.tar.gz"
-  sha256 "6b0354fb59d42eb04deeec96ccd481d3d9e2827fc1b23ce1696f07b3ddb5ffb5"
+  url "https://github.com/tomhuettmann/brew_bar/releases/download/v1.1.0/BrewBar-1.1.0-macos-arm64.tar.gz"
+  sha256 "821e87a656fc496da5b6a2d49247678d7621d6b228d1fa9fcaf6fd0bbb65be82"
   license "MIT"
 
   depends_on arch: :arm64
